@@ -11,7 +11,7 @@
 - Joann - 
 - Annan --
 - Hyungin --
-- Daniel -- 
+- Daniel -- [SymbiosisV1](https://dannoblem.github.io/SymbiosisThreeJS/) [Repo](https://github.com/DanNoblem/SymbiosisThreeJS?tab=readme-ov-file)
 - Yizhi --
 - ☕️ BREAK 🍹
 - Athena -- [Notion Doc](https://www.notion.so/athenazhou/Documentation-5eada2f2b9694a01a9efb24b89e30bd4?pvs=4), How Are you
